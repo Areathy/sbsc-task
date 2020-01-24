@@ -1,0 +1,41 @@
+.nav-bar {
+   height: 72px;
+   box-shadow: 0 7px 64px 0 rgb(228, 228, 243);
+   background-color: #ffffff;
+   margin-left: 15.2em;
+   display: flex;
+}
+
+
+.nav-img {
+   width: 1.3%;
+   height: 16%;
+   margin-left: 4em;
+   margin-top: 2em;
+}
+
+.bell {
+   width: 16%;
+   height: 75%;
+}
+
+.right-nav {
+   margin-left: 70%;
+   display: flex;
+   margin-top: 2em;
+}
+
+.nav-name {
+   margin: 0 0 0 2em;
+}
+
+.nav-name h6 {
+   margin: 0;
+   font-size: 100%;
+}
+
+.nav-name p {
+   margin: -22px 0 0 0;
+   text-align: right;
+   font-size: 68%;
+}
